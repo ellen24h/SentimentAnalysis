@@ -1,6 +1,8 @@
 # Sentiment On
 : Sentiment Analysis Server (input: sentence, output: sentiment value)
 
+### DEMO : http://on.ellenseon.net
+
 - Sentiment On은  
 	- 1)사용자의 감정을 문장의 형태로 입력받아, 
 	- 2)`감정 점수`와 `감정을 나타내는 단어`를 json 형태로 return해주는 
